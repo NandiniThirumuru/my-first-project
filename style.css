@@ -5,4 +5,10 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
+  width: 300px;
+}
+.btn-primary {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
 }
